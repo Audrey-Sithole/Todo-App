@@ -1,0 +1,51 @@
+.yellow-border {
+    border: 1px solid red;
+  }
+
+  .navbar{
+    background-image: linear-gradient(to right, #fdcedf, #fdd8e4, #fce2ea, #fbebf0, #f9f5f6);
+  }
+
+  .navbar-brand{
+      font-family: "Sevillana", cursive;
+      font-weight: 500;
+      font-size: 50px;
+      font-style:italic;
+    }
+    
+  
+  .btn btn-md {
+    color: #51075a;
+  }
+
+  .btn.btn-md.mx-2 {
+    background-color: #DC84F3;
+  }
+
+  .btn btn-outline-success{
+    color: #DC84F3;
+  }
+  
+ 
+  .footer {
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      text-align: center;
+  }
+
+  .footer-icons {
+      list-style: none;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+  }
+
+  .footer-icons li {
+      margin: 0 5px;
+      cursor: pointer;
+      color: black;
+  }
+
+
